@@ -1,0 +1,2 @@
+[31-Aug-2018 06:19:39 UTC] PHP Notice:  Undefined offset: 1 in /home/y3z9z3ccxrva/public_html/php/subscribe.php on line 17
+[31-Aug-2018 06:19:39 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/y3z9z3ccxrva/public_html/php/subscribe.php on line 68
